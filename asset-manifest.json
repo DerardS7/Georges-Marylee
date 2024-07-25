@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Georges-Marylee/static/css/main.fa437353.css",
+    "main.js": "/Georges-Marylee/static/js/main.80050ccb.js",
+    "index.html": "/Georges-Marylee/index.html",
+    "main.fa437353.css.map": "/Georges-Marylee/static/css/main.fa437353.css.map",
+    "main.80050ccb.js.map": "/Georges-Marylee/static/js/main.80050ccb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa437353.css",
+    "static/js/main.80050ccb.js"
+  ]
+}
