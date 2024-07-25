@@ -2,6 +2,7 @@
   "name": "wedding-slideshow",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://derards7.github.io/Georges-Marylee",
   "dependencies": {
     "@react-google-maps/api": "^2.19.3",
     "@testing-library/jest-dom": "^5.17.0",
@@ -25,6 +26,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
